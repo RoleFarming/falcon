@@ -29,8 +29,8 @@ Quick Links
 * `Read the docs <https://role.farm/tech>`_
 * `Falcon add-ons and complementary packages <https://github.com/RoleFarming/falcon/wiki>`_
 * `Falcon articles, talks and podcasts <https://github.com/RoleFarming/falcon/wiki/Articles,-Talks-and-Podcasts>`_
-* `falconry/user for Falcon users <https://gitter.im/RoleFarming/user>`_ @ Gitter
-* `falconry/dev for Falcon contributors <https://gitter.im/RoleFarming/dev>`_ @ Gitter
+* `RoleFarming/user for Falcon users <https://gitter.im/RoleFarming/user>`_ @ Gitter
+* `RoleFarming/dev for Falcon contributors <https://gitter.im/RoleFarming/dev>`_ @ Gitter
 
 What People are Saying
 ----------------------
@@ -152,7 +152,7 @@ your implementation. It also helps you understand your apps at a deeper level,
 making them easier to tune, debug, and refactor over the long run. Falcon's
 minimalist design provides space for Python community members to independently
 innovate on `Falcon add-ons and complementary packages
-<https://github.com/falconry/falcon/wiki>`_.
+<https://github.com/RoleFarming/falcon/wiki>`_.
 
 Who's Using Falcon?
 -------------------
@@ -173,7 +173,7 @@ including:
 
 If you are using the Falcon framework for a community or commercial
 project, please consider adding your information to our wiki under
-`Who's Using Falcon? <https://github.com/falconry/falcon/wiki/Who's-using-Falcon%3F>`_
+`Who's Using Falcon? <https://github.com/RoleFarming/falcon/wiki/Who's-using-Falcon%3F>`_
 
 Community
 ---------
@@ -184,9 +184,9 @@ available for use in your projects. We've listed several of these on the
 point, but you may also wish to search PyPI for additional resources.
 
 The Falconry community on Gitter is a great place to ask questions and
-share your ideas. You can find us in `falconry/user
-<https://gitter.im/falconry/user>`_. We also have a
-`falconry/dev <https://gitter.im/falconry/dev>`_ room for discussing
+share your ideas. You can find us in `RoleFarming/user
+<https://gitter.im/RoleFarming/user>`_. We also have a
+`RoleFarming/dev <https://gitter.im/RoleFarming/dev>`_ room for discussing
 the design and development of the framework itself.
 
 Per our
@@ -353,7 +353,7 @@ Or, to run the default set of tests:
 
     $ pip install tox && tox
 
-See also the `tox.ini <https://github.com/falconry/falcon/blob/master/tox.ini>`_
+See also the `tox.ini <https://github.com/RoleFarming/falcon/blob/master/tox.ini>`_
 file for a full list of available environments.
 
 Read the Docs
@@ -1013,9 +1013,9 @@ The core Falcon project maintainers are:
 
 Please don't hesitate to reach out if you have any questions, or just need a
 little help getting started. You can find us in
-`falconry/dev <https://gitter.im/falconry/dev>`_ on Gitter.
+`RoleFarming/dev <https://gitter.im/RoleFarming/dev>`_ on Gitter.
 
-See also: `CONTRIBUTING.md <https://github.com/falconry/falcon/blob/master/CONTRIBUTING.md>`__
+See also: `CONTRIBUTING.md <https://github.com/RoleFarming/falcon/blob/master/CONTRIBUTING.md>`__
 
 Legal
 -----
@@ -1044,7 +1044,7 @@ limitations under the License.
 .. |Runner| image:: https://a248.e.akamai.net/assets.github.com/images/icons/emoji/runner.png
     :width: 20
     :height: 20
-.. |Build Status| image:: https://github.com/falconry/falcon/workflows/Run%20tests/badge.svg
-   :target: https://github.com/falconry/falcon/actions?query=workflow%3A%22Run+tests%22
-.. |codecov.io| image:: https://codecov.io/gh/falconry/falcon/branch/master/graphs/badge.svg
-   :target: http://codecov.io/gh/falconry/falcon
+.. |Build Status| image:: https://github.com/RoleFarming/falcon/workflows/Run%20tests/badge.svg
+   :target: https://github.com/RoleFarming/falcon/actions?query=workflow%3A%22Run+tests%22
+.. |codecov.io| image:: https://codecov.io/gh/RoleFarming/falcon/branch/master/graphs/badge.svg
+   :target: http://codecov.io/gh/RoleFarming/falcon
