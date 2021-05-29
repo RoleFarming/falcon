@@ -1,9 +1,9 @@
 .. raw:: html
 
-    <a href="https://falconframework.org" target="_blank">
+    <a href="https://role.farm/" target="_blank">
     <img
-        src="https://raw.githubusercontent.com/falconry/falcon/master/logo/banner.jpg"
-        alt="Falcon web framework logo"
+        src="https://raw.githubusercontent.com/RoleFarming/falcon/master/logo/banner.jpg"
+        alt="Falcon Role Farm Framework logo"
         style="width:100%"
     >
     </a>
@@ -13,7 +13,7 @@
 The Falcon Role Farm Framework
 ========================
 
-`Falcon <https://role.farm>`__ is a reliable,
+`Falcon <https://role.farm/>`__ is a reliable,
 high-performance Python Role Farm Web framework for building
 large-scale app backends and microservices. It encourages the REST
 architectural style, and tries to do as little as possible while
