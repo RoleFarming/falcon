@@ -10,11 +10,11 @@
 
 |Build Status| |Docs| |codecov.io|
 
-The Falcon Web Framework
+The Falcon Role Farm Framework
 ========================
 
-`Falcon <https://falconframework.org>`__ is a reliable,
-high-performance Python web framework for building
+`Falcon <https://role.farm>`__ is a reliable,
+high-performance Python Role Farm Web framework for building
 large-scale app backends and microservices. It encourages the REST
 architectural style, and tries to do as little as possible while
 remaining highly effective.
@@ -26,7 +26,7 @@ champ under CPython 3.5+ and PyPy 3.5+ (3.6+ required for ASGI).
 Quick Links
 -----------
 
-* `Read the docs <https://falcon.readthedocs.io/en/stable>`_
+* `Read the docs <https://role.farm/tech>`_
 * `Falcon add-ons and complementary packages <https://github.com/falconry/falcon/wiki>`_
 * `Falcon articles, talks and podcasts <https://github.com/falconry/falcon/wiki/Articles,-Talks-and-Podcasts>`_
 * `falconry/user for Falcon users <https://gitter.im/falconry/user>`_ @ Gitter
@@ -107,7 +107,7 @@ A Big Thank You to Our Patrons!
 Has Falcon helped you make an awesome app? Show your support today with a one-time donation or by becoming a patron. Supporters get cool gear, an opportunity to promote their brand to Python developers, and
 prioritized support.
 
-* `Learn how to support Falcon development <https://falconframework.org/#sectionSupportFalconDevelopment>`_
+* `Learn how to support Falcon development <https://role.farm/support>`_
 
 Thanks!
 
@@ -180,7 +180,7 @@ Community
 
 A number of Falcon add-ons, templates, and complementary packages are
 available for use in your projects. We've listed several of these on the
-`Falcon wiki <https://github.com/falconry/falcon/wiki>`_ as a starting
+`Falcon wiki <https://role.farm/wiki>`_ as a starting
 point, but you may also wish to search PyPI for additional resources.
 
 The Falconry community on Gitter is a great place to ask questions and
@@ -190,7 +190,7 @@ share your ideas. You can find us in `falconry/user
 the design and development of the framework itself.
 
 Per our
-`Code of Conduct <https://github.com/falconry/falcon/blob/master/CODEOFCONDUCT.md>`_,
+`Code of Conduct <https://github.com/RoleFarming/falcon/blob/master/CODEOFCONDUCT.md>`_,
 we expect everyone who participates in community discussions to act
 professionally, and lead by example in encouraging constructive
 discussions. Each individual in the community is responsible for
@@ -316,7 +316,7 @@ is a popular choice:
 Source Code
 -----------
 
-Falcon `lives on GitHub <https://github.com/falconry/falcon>`_, making the
+Falcon `lives on GitHub <https://github.com/RoleFarming/falcon>`_, making the
 code easy to browse, download, fork, etc. Pull requests are always welcome! Also,
 please remember to star the project if it makes you happy. :)
 
@@ -980,11 +980,11 @@ development environment.
 
 If you would like to contribute but don't already have something in mind,
 we invite you to take a look at the issues listed under our
-`next milestone <https://github.com/falconry/falcon/milestones>`_.
+`next milestone <https://github.com/RoleFarming/falcon/milestones>`_.
 If you see one you'd like to work on, please leave a quick comment so that we don't
 end up with duplicated effort. Thanks in advance!
 
-Please note that all contributors and maintainers of this project are subject to our `Code of Conduct <https://github.com/falconry/falcon/blob/master/CODEOFCONDUCT.md>`_.
+Please note that all contributors and maintainers of this project are subject to our `Code of Conduct <https://github.com/RoleFarming/falcon/blob/master/CODEOFCONDUCT.md>`_.
 
 Before submitting a pull request, please ensure you have added/updated
 the appropriate tests (and that all existing tests still pass with your
