@@ -27,10 +27,10 @@ Quick Links
 -----------
 
 * `Read the docs <https://role.farm/tech>`_
-* `Falcon add-ons and complementary packages <https://github.com/falconry/falcon/wiki>`_
-* `Falcon articles, talks and podcasts <https://github.com/falconry/falcon/wiki/Articles,-Talks-and-Podcasts>`_
-* `falconry/user for Falcon users <https://gitter.im/falconry/user>`_ @ Gitter
-* `falconry/dev for Falcon contributors <https://gitter.im/falconry/dev>`_ @ Gitter
+* `Falcon add-ons and complementary packages <https://github.com/RoleFarming/falcon/wiki>`_
+* `Falcon articles, talks and podcasts <https://github.com/RoleFarming/falcon/wiki/Articles,-Talks-and-Podcasts>`_
+* `falconry/user for Falcon users <https://gitter.im/RoleFarming/user>`_ @ Gitter
+* `falconry/dev for Falcon contributors <https://gitter.im/RoleFarming/dev>`_ @ Gitter
 
 What People are Saying
 ----------------------
